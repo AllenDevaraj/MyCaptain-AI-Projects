@@ -10,5 +10,3 @@ print('Union of E and N is ',union)
 print('Intersection of E and N is ',inter)
 print('Difference of E and N is',diff)
 print('Symmetric difference of E and N is ',symdiff)
-
-#Thank You
